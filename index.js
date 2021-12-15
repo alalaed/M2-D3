@@ -18,14 +18,14 @@ for( i=0; i<genres.length; i++){
     list.appendChild(item)
 }
 
-
+// ex.4
 function watchColorPicker(event) {
     document.querySelectorAll("p").forEach(function(p) {
       p.style.color = event.target.value;
     });
   }
 
-
+// ex.2
 let colorPicker = function(){
     let x = clientX 
     let y = clientY
