@@ -2,7 +2,7 @@
 
 
 
-
+/*
 const genres = ["HipHop", "Rap", "Jazz", "Alt.Rock", "RnB", "Pop"]
 
 
@@ -40,7 +40,7 @@ for (i=0; i<items.length; i++){
 listItems.push(items[i])
 }
 
-
+*/
 
 
 
