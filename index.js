@@ -42,6 +42,15 @@ listItems.push(items[i])
 
 */
 
+let deleteAllcards = function(){
+
+  let card = document.getElementsByClassName("card")
+    for(i=0; i<card.length; i++){
+      card[i].remove()
+    }
+
+}
+
 
 
 
